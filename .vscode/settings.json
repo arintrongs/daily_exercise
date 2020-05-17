@@ -8,6 +8,9 @@
     "complex": "cpp",
     "random": "cpp",
     "bit": "cpp",
-    "*.tcc": "cpp"
+    "*.tcc": "cpp",
+    "utility": "cpp",
+    "stack": "cpp",
+    "map": "cpp"
   }
 }
